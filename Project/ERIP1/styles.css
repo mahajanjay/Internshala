@@ -1,0 +1,132 @@
+html body {
+    width: 30%;
+    margin: auto;
+    height: 812px;
+}
+
+.container {
+    position: absolute;
+    width: 368px;
+    height: 812px;
+    left: auto;
+    top: 0px;
+    background: url("shopping.jpg");
+    opacity: 0.45;
+    margin: auto;
+}
+
+.content {
+    position: absolute;
+    width: 368px;
+    height: 624px;
+    left: 0px;
+    top: 188px;
+    background: #FFFFFF;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.right h2 {
+    position: absolute;
+    width: 134px;
+    height: 24px;
+    left: 117px;
+    top: 15px;
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+
+}
+
+svg {
+    position: absolute;
+    left: 5.71%;
+    right: 92.7%;
+    top: 30px;
+    bottom: 70.97%;
+    border: 2px solid #25282B;
+
+}
+
+#p1 {
+    position: absolute;
+    width: 327px;
+    height: 50px;
+    left: 21px;
+    top: 79px;
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    color: #000000;
+}
+
+#p2 {
+    position: absolute;
+    background: #0E62CB;
+    border-radius: 5px;
+    height: 50px;
+    width: 328px;
+    left: 20px;
+    top: 490px;
+    border-radius: 5px;
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.233605px;
+    color: #FFFFFF;
+}
+
+#p2 p {
+    margin-left: 75px;
+}
+
+#p3 {
+    height: 20px;
+    width: 20px;
+    left: 175px;
+    top: 560px;
+    border-radius: nullpx;
+    position: absolute;
+    left: 47.55%;
+    right: 47.01%;
+    top: 68.97%;
+    bottom: 28.57%;
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.233605px;
+    color: #676767;
+    margin-top: 124px;
+}
+
+#p4 {
+    height: 50px;
+    width: 328px;
+    left: 20px;
+    top: 600px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    position: absolute;
+    left: 5.43%;
+    right: 5.43%;
+    top: 93.89%;
+    bottom: 19.95%;
+    border: 1.5px solid #0E62CB;
+    border-radius: 5px;
+    height: 49px;
+    width: 326px;
+    left: 20px;
+    border-radius: nullpx;
+}
+
+#p4 p {
+    margin-left: 80px;
+}

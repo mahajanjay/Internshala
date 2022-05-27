@@ -1,0 +1,147 @@
+html body {
+    width: 65%;
+    margin: auto;
+    border: solid black;
+    border-radius: 5px;
+    padding: 85px 20px 0px 40px;
+
+}
+
+.container {
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+}
+
+.right {
+    display: inline-block;
+    text-align: center;
+    padding-left: 350px;
+    height: 29px;
+    width: 182px;
+    left: -4115px;
+    top: -4527px;
+    border-radius: nullpx;
+
+}
+
+.left {
+    display: inline-block;
+}
+
+.left svg {
+    width: 20px;
+    height: 20px;
+}
+
+h2 {
+    font-family: Product Sans;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.partitioning {
+    display: inline-block;
+    margin-top: 72px;
+}
+
+.box {
+    height: 50px;
+    width: 325px;
+    left: -4438px;
+    top: -4426px;
+    border: 1.5px solid #0E62CB;
+    border-radius: 5px;
+    display: inline;
+    float: left;
+}
+
+p {
+    display: inline;
+}
+
+.box #p1 {
+    font-family: Product Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.2336047738790512px;
+    text-align: left;
+    position: absolute;
+    width: 59px;
+    height: 20px;
+    padding-left: 10px;
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.233605px;
+    color: #676767;
+}
+
+.box #p2 {
+    font-family: Product Sans;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0.2336047738790512px;
+    text-align: left;
+    position: absolute;
+    width: 70px;
+    height: 20px;
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.233605px;
+    color: #0E62CB;
+    margin-left: 245px;
+}
+
+#current_location {
+    font-family: Product Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.2336047738790512px;
+    text-align: left;
+    position: absolute;
+    width: 170px;
+    height: 20px;
+
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.233605px;
+    color: #000000;
+    display: block;
+    margin-top: 60px;
+}
+
+.img {
+    height: 322px;
+    width: 465px;
+    left: -4075px;
+    top: -4426px;
+    border-radius: 0px;
+
+
+}
+
+.img img {
+    position: absolute;
+    width: 465px;
+    height: 322px;
+    float: right;
+    clear: both;
+    margin-left: 50px;
+}
